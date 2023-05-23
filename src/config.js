@@ -1,5 +1,5 @@
 export default {
-  API_ENDPOINT: 'https://peaceful-wave-32071.herokuapp.com/',
+  API_ENDPOINT: 'https://chore-runner-api.onrender.com/',
   TOKEN_KEY: 'chorerunner-jwt-secret', 
   TYPE: 'type'
 }
