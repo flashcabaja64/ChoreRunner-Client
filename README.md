@@ -6,7 +6,7 @@
 
 Authors: Daniel Nichols, Hubert Yang, Chitchanok Nancy Phiukhao, Yulia Khisamutdinova, Alexander Fukui
 
-* Live version: http://chorerunner-client.now.sh
+* Live version: [https://chore-runner-client.vercel.app/](https://chore-runner-client.vercel.app/)
 * Required API: 
   - Live: https://enigmatic-waters-75582.herokuapp.com/
   - Repo:  https://github.com/thinkful-ei-gecko/ChoreRunner-API
